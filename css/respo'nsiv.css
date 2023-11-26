@@ -1,0 +1,95 @@
+@media only screen and (max-width:768px){
+    .navigton i{
+        display: inline;
+      margin-left: 32vh;
+    }
+    .navigton a{
+        display: none;
+    }
+    .navigton s{
+        font-size: 3rem;
+        margin-left: 22px;
+    }
+    .navigton b{
+        font-size: 3rem;
+    }
+   .full .card{
+        width: 60vh;
+    }
+    .kitan{
+        height: 130vh;
+    }
+    .ukon{
+        grid-template-columns: 1fr 1fr;
+    }
+    .ukon .item{
+        width: 30vh;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+    .ukon i{
+        margin-left: 55px;
+    }
+    .ukon .navv{
+        width: 30vh;
+    }
+    .ukon button{
+        margin-left: 15px;
+    }
+    .clasik{
+        grid-template-columns: 1fr;
+       
+    }
+    .clac{
+        height: 120vh;
+    }
+    .clasik .item:first-of-type{
+        width: 63vh;
+    }
+    .clasik .itm:last-of-type{
+        margin-left: 1px;
+        height: 25vh;
+        margin-top: 15vh;
+    }
+    .clasik img{
+        width: 25vh;
+        height: 20vh;
+    }
+    .loremm .item{
+width: 55vh;
+height: 20vh;
+    }
+    .post{
+        grid-template-columns: 1fr;
+    }
+    .blog{
+        height: 170vh;
+    }
+   .sesm{
+    margin-left: 20px;
+   }
+   .ilon{
+    margin-left: 20px;
+   }
+   .contact .item{
+    width: 60vh;
+   }
+   .foter{
+    grid-template-columns: 1fr 1fr;
+    height: 100vh;
+   }
+   .foter .item{
+    margin-left: 0;
+    width: 20vh;
+    margin-right: 2rem;
+    margin-top: 10px;
+    height: 5vh;
+   }
+   .foter .item:first-of-type{
+    width: 30vh;
+   
+   }
+   .foter .itm:last-of-type{
+   width: 1px;
+   }
+}
